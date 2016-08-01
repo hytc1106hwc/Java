@@ -1,4 +1,4 @@
-package com.hmkcode.vo;
+package cn.org.aris.json.vo;
 
 import java.util.LinkedList;
 import java.util.List;
